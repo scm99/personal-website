@@ -1,0 +1,13 @@
+
+
+body {
+    font-family: sans-serif;
+}
+
+.visitor-welcome {
+    border: cornflowerblue 1px solid;
+}
+
+#visitor-name {
+    font-weight: bold;
+}
